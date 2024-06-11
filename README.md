@@ -21,6 +21,7 @@ Example
 
 Input:
 int[] a = {1, 2, 3, 4, 5}; int d = 4;
+
 Output:
 5 1 2 3 4 The array [1, 2, 3, 4, 5] is rotated to the left by 4 positions, resulting in [5, 1, 2, 3, 4].
 
